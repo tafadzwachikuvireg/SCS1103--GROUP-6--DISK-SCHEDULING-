@@ -19,7 +19,7 @@
 | Sheunopa Chitauro | N02645487G | SheunopaChitauro | Programmer and system designing |
 |Shalom Chihwenga |N02649597S |shalomc7 | Group leader and writer |
 | to be filled| to be filled |to be filled | system designer|
-| Member 4 | To be filled | To be filled | Programmer |
+| Tafadzwa Chikuvire| N02651103C | tafadzwachikuvireg| Research|
 | Member 4 | To be filled | To be filled | Programmer |
 
 Research Question: How can different hard disk scheduling algorithms affect the time taken to retrieve university information from a simulated disk?
