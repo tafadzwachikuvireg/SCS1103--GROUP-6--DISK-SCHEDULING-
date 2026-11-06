@@ -18,7 +18,7 @@
 | Kaopesh Chikwature | N02651006M | kaopesh7 | Research and Analysis |
 | Sheunopa Chitauro | N02645487G | SheunopaChitauro | Programmer and system designing |
 | Member 4 | To be filled | To be filled | Programmer |
-| Member 4 | To be filled | To be filled | Programmer |
+| Tafadzwa Chikuvire| N02651103C | tafadzwachikuvireg| Research|
 | Member 4 | To be filled | To be filled | Programmer |
 | Member 4 | To be filled | To be filled | Programmer |
 
